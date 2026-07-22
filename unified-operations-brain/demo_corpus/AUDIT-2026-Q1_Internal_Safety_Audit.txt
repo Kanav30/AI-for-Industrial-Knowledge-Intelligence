@@ -1,0 +1,68 @@
+BHARAT PETROCHEM REFINERY
+INTERNAL PROCESS SAFETY AUDIT REPORT
+
+Audit Ref     : AUDIT-2026-Q1
+Audit Period  : January to March 2026
+Auditor       : Mr. Prakash Iyer, Lead Auditor
+Scope         : Crude Distillation Unit and associated utilities
+Standard      : OISD-STD-105, OISD-STD-130, Factories Act 1948
+
+EXECUTIVE SUMMARY
+The audit examined mechanical integrity management, permit to work compliance and
+incident investigation effectiveness. Four non-conformances and three observations
+were raised. Two non-conformances are classified as Major.
+
+FINDING 1 - MAJOR NON-CONFORMANCE
+Ref: NCR-2026-016
+Clause: OISD-STD-130 inspection recommendation tracking
+Finding: Inspection recommendation 5.2 of report INSP-2024-208 concerning
+installation of an erosion shield on E-204 was not implemented and not formally
+deferred. The equipment subsequently developed a tube leak recorded under
+WO-244501. There is no management of change record covering the non-implementation.
+Root cause: No closed loop tracking system exists linking inspection
+recommendations to work order execution.
+Corrective action required by: 30-Jun-2026.
+
+FINDING 2 - MAJOR NON-CONFORMANCE
+Ref: NCR-2026-017
+Clause: Factories Act 1948 incident investigation requirements
+Finding: Repeat failures of the same mode on the same equipment were not escalated
+to root cause investigation. Pump P-101A suffered mechanical seal failure on three
+occasions, recorded under WO-221094, WO-238811 and INC-2026-014. Only the third
+event triggered an investigation. Both earlier work orders contain written
+observations recommending review of the seal flush system; neither was actioned.
+Root cause: Work order closure process does not check equipment failure history.
+Corrective action required by: 31-May-2026.
+
+FINDING 3 - MINOR NON-CONFORMANCE
+Ref: NCR-2026-018
+Finding: Inconsistent H2S exposure thresholds across controlled documents.
+SOP-CDU-011 clause 4.1 states an alarm threshold of 10 ppm as an 8-hour reference.
+SDS-CRUDE-01 Section 8 states an 8-hour TWA of 5 ppm with a 15-minute STEL of 10 ppm.
+Permit PTW-5518 applied a work-continuation threshold of 5 ppm.
+Three controlled documents state three different operative values for the same
+hazard. This creates a foreseeable risk of incorrect field decision making.
+Corrective action required by: 30-Apr-2026.
+
+FINDING 4 - MINOR NON-CONFORMANCE
+Ref: NCR-2026-019
+Finding: Seal support system maintenance is described only in the OEM manual
+OM-KPP-250-R7 Section 6.3. It is not reflected in any controlled site procedure
+or in the preventive maintenance schedule. The requirement is therefore dependent
+on individual knowledge rather than a controlled system.
+
+OBSERVATION 1
+Vessel V-301 has incident and maintenance history on record but no site operating
+procedure or OEM documentation could be located during the audit. The unit relies
+on the knowledge of two long serving operators, both of whom are within five years
+of superannuation.
+
+OBSERVATION 2
+Document control across the unit is fragmented. Inspection reports, work orders,
+permits and procedures reside in four separate systems with no cross referencing.
+Auditors required approximately 11 hours to assemble the evidence trail for
+Finding 2, which a linked system would have surfaced immediately.
+
+OBSERVATION 3
+Corrosion rate trending is performed manually per equipment. There is no systematic
+review that would identify accelerating degradation across the equipment population.
