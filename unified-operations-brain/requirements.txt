@@ -1,0 +1,30 @@
+# Unified Asset & Operations Brain — dependencies
+# Every package below is free and open source. No API keys. No paid services.
+# The system performs zero outbound network calls at runtime.
+
+# --- UI ---
+streamlit>=1.32,<2.0
+plotly>=5.18
+
+# --- Data & graph ---
+pandas>=2.0
+numpy>=1.24
+networkx>=3.1
+scikit-learn>=1.3
+
+# --- Document ingestion ---
+pdfplumber>=0.10          # native PDF text + table extraction
+pypdf>=3.17               # PDF fallback extractor
+python-docx>=1.1          # .docx
+openpyxl>=3.1             # .xlsx / .xlsm
+
+# --- Optional: OCR for scanned documents ---
+# The app degrades gracefully if these are absent — scanned PDFs will simply
+# yield no text rather than crashing. Install only if you need OCR.
+# Also requires the tesseract binary:
+#   Ubuntu/Debian : sudo apt install tesseract-ocr
+#   macOS         : brew install tesseract
+#   Windows       : https://github.com/UB-Mannheim/tesseract/wiki
+pytesseract>=0.3.10
+pypdfium2>=4.25
+Pillow>=10.0
