@@ -1,0 +1,51 @@
+KIRLOSKAR PROCESS PUMPS
+OPERATION AND MAINTENANCE MANUAL - EXTRACT
+Model KPP-250-400 Heavy Duty Process Pump
+
+Applicable Tags at Bharat Petrochem: P-101A, P-101B, P-102A, P-102B
+Manual Ref: OM-KPP-250-R7
+
+SECTION 6 - MECHANICAL SEAL AND SEAL SUPPORT SYSTEM
+
+6.1 SEAL ARRANGEMENT
+This pump is supplied with a cartridge type single mechanical seal with API Plan 11
+flush arrangement. Flush is taken from the pump discharge, passed through a
+strainer and flow control orifice, and injected into the seal chamber.
+
+6.2 CRITICAL WARNING
+The mechanical seal is entirely dependent on continuous flush flow for face
+lubrication and heat removal. Interruption of flush flow will cause the seal faces
+to run dry. Dry running will destroy the seal within minutes and may result in
+loss of containment of the pumped fluid.
+
+6.3 SEAL FLUSH STRAINER MAINTENANCE
+The Plan 11 flush line incorporates a Y-type strainer upstream of the flow control
+orifice. In services containing entrained solids, coke fines or catalyst carryover,
+this strainer will foul progressively.
+
+RECOMMENDED FREQUENCY: The strainer element shall be inspected and cleaned every
+90 days in clean service, and every 30 days in services containing solids or coke
+fines. Failure to maintain the strainer is the single most common cause of premature
+seal failure in this pump range.
+
+6.4 INDICATIONS OF FLUSH RESTRICTION
+- Rising seal chamber temperature
+- Increased seal face noise
+- Intermittent weeping at the seal followed by rapid failure
+- Reduction in flush line flow indication where fitted
+
+6.5 SEAL REPLACEMENT
+Refer to Section 7 for cartridge removal. Recommended spare: MS-4412-B for
+outboard position. Always replace the flush strainer element at the same time as
+a seal replacement. Reusing a fouled strainer will cause repeat failure.
+
+SECTION 8 - VIBRATION LIMITS
+Acceptance on commissioning: below 2.8 mm/s RMS
+Alert level                : 4.5 mm/s RMS
+Shutdown level             : 7.1 mm/s RMS
+Reference standard ISO 10816 machine class II.
+
+SECTION 9 - LUBRICATION
+Bearing lubricant: ISO VG 68 mineral oil.
+Oil change interval: 4000 running hours or 6 months whichever is earlier.
+Monitor for oil degradation and lube oil contamination at each change.

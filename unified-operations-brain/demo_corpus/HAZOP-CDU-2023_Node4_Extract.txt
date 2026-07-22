@@ -1,0 +1,56 @@
+BHARAT PETROCHEM REFINERY
+HAZOP STUDY REPORT - EXTRACT
+
+Study Ref   : HAZOP-CDU-2023
+Node        : Node 4 - Crude Charge Pumping
+Date        : 14-Nov-2023
+Chairman    : Mr. Prakash Iyer
+Scribe      : Er. Anil Deshmukh
+Team        : Process Engineer, Maintenance Engineer, Operations Representative,
+              Instrumentation Engineer, Safety Officer
+
+NODE DESCRIPTION
+Crude oil transfer from storage tank T-501 through charge pumps P-101A and P-101B
+to preheat exchanger train including E-204, and onward to the crude heater F-101.
+Design intent: deliver 480 m3/hr of sour crude at 19 barg to the preheat train.
+
+DEVIATION: NO FLOW
+Cause 1   : Pump trip on power failure.
+Consequence: Loss of feed to heater F-101, potential tube overheating.
+Safeguards: Low flow alarm FIC-1103, heater trip on low flow, standby pump auto start.
+Action    : None.
+
+DEVIATION: LOSS OF CONTAINMENT AT PUMP
+Cause 1   : Mechanical seal failure on P-101A or P-101B.
+Consequence: Release of sour crude at grade. Fire risk. H2S exposure risk to
+            personnel in the pump bay. Potential for escalation to adjacent
+            equipment.
+Safeguards: Hydrocarbon detection AT-1142, H2S detection, bunding, remote
+            isolation capability, fire water monitors.
+Comment   : The team noted that seal reliability is dependent on the seal flush
+            system. The team was unable to confirm whether seal flush strainer
+            maintenance is included in the preventive maintenance schedule.
+Action 4.7: Verify that seal support system maintenance tasks are captured in the
+            PM schedule for P-101A and P-101B.
+            Owner: Reliability Engineer. Due: Q2 2024.
+            STATUS AT INC-2026-014: NOT CLOSED.
+
+DEVIATION: HIGH TEMPERATURE
+Cause 1   : Loss of cooling water to seal cooler.
+Consequence: Seal face damage, potential seal failure.
+Safeguards: Seal chamber temperature indication where fitted.
+Comment   : Not all pumps in this node have seal chamber temperature indication.
+Action 4.8: Evaluate fitment of seal chamber temperature monitoring on critical
+            charge pumps. Owner: Instrumentation Engineer. Due: Q4 2024.
+            STATUS: Deferred, no revised date recorded.
+
+DEVIATION: EROSION IN PREHEAT TRAIN
+Cause 1   : Solids carryover from crude storage.
+Consequence: Erosion corrosion of exchanger shells, particularly at inlet nozzles.
+            Progressive wall thinning leading to potential loss of containment.
+Safeguards: Periodic thickness survey per API 570.
+Comment   : E-204 identified as the most exposed item due to inlet geometry.
+Action 4.9: Review adequacy of upstream filtration and consider erosion protection
+            at exchanger inlet nozzles. Owner: Process Engineer. Due: Q1 2024.
+            STATUS: Partially addressed. Erosion shield recommended by inspection
+            but not installed as of Mar-2026.

@@ -1,0 +1,56 @@
+BHARAT PETROCHEM REFINERY
+PERMIT TO WORK - COLD WORK
+
+Permit No        : PTW-5518
+Date of Issue    : 08-Feb-2026
+Validity         : 08-Feb-2026 10:00 hrs to 11-Feb-2026 18:00 hrs
+Work Location    : Crude Distillation Unit, Exchanger Bay 2
+Equipment        : E-204
+Issuing Authority: Mr. Vikram Nair, Permit Issuer
+Receiving Authority: Mr. Suresh Patil, Permit Receiver
+Reference Standard: OISD-STD-105
+
+1. DESCRIPTION OF WORK
+Isolation, blinding, bundle withdrawal and tube plugging on crude preheat
+exchanger E-204 following suspected tube leak.
+
+2. HAZARD IDENTIFICATION
+Residual hydrocarbon inventory in shell and tube side.
+Potential H2S evolution from sour crude residues.
+Stored pressure and thermal energy.
+Overhead lifting operation for bundle withdrawal.
+Manual handling.
+
+3. ISOLATION CERTIFICATE
+Isolation Cert No: ISO-5518-A
+Process isolation : Double block and bleed on inlet and outlet, blinds installed.
+Electrical isolation: Not applicable, static equipment.
+Drain and vent    : Completed to closed drain system.
+Purging           : Steam out followed by air freshening.
+
+4. GAS TEST RECORD
+
+Time      Hydrocarbon (%LEL)   H2S (ppm)   Oxygen (%)   Tested By
+09:45     0                    2           20.8         Competent Person
+13:00     0                    1           20.9         Competent Person
+09:00 D2  0                    0           20.9         Competent Person
+09:00 D3  0                    3           20.7         Competent Person
+
+NOTE: H2S reading of 3 ppm recorded on Day 3. Work continued. The permit
+condition specifies work may proceed below 5 ppm. This threshold differs from
+the 10 ppm alarm setpoint stated in SOP-CDU-011 and from the value in
+SDS-CRUDE-01. Discrepancy noted by Safety Officer for review.
+
+5. PERSONAL PROTECTIVE EQUIPMENT REQUIRED
+Flame retardant coverall, safety helmet, safety goggles, chemical resistant gloves,
+personal H2S monitor, escape set available at work location.
+
+6. PRECAUTIONS
+Continuous gas monitoring during bundle withdrawal.
+Fire watch not required, cold work only. No hot work permitted under this permit.
+Confined Space entry NOT authorised under this permit.
+Area barricaded. Lifting plan approved separately.
+
+7. CLOSURE
+Work completed 11-Feb-2026 17:40 hrs. Area cleared, blinds removed per checklist.
+Permit closed by Issuing Authority.

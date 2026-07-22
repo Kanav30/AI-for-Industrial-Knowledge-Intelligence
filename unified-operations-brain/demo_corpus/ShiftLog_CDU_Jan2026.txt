@@ -1,0 +1,38 @@
+BHARAT PETROCHEM REFINERY - CRUDE DISTILLATION UNIT
+SHIFT LOG BOOK EXTRACT - JANUARY 2026
+
+=== 08-Jan-2026 NIGHT SHIFT (22:00 - 06:00) ===
+Shift Supervisor : Mr. Rajesh Kumar
+Panel Operator   : Mr. Sunil Rane
+Field Operator   : Mr. Ganesh More
+
+22:15 Took over unit from general shift. Unit stable at 108 percent of design rate.
+      P-101A running as duty, P-101B on auto standby.
+23:40 Routine round completed. Noted minor seepage at P-101A outboard seal area.
+      Quantity described as occasional drip. Logged for day shift attention.
+01:20 Seepage at P-101A appears unchanged. Continued monitoring.
+02:40 Sudden drop in P-101A discharge pressure from 18.5 barg to 11.2 barg.
+      Hydrocarbon detector AT-1142 alarm at 34 % LEL.
+02:42 Field Operator reports liquid spray from P-101A outboard seal.
+02:44 Emergency shutdown of P-101A initiated per SOP-CDU-011. P-101B started.
+02:50 P-101A isolated. Spray stopped. Area cordoned. Fire water on standby.
+03:10 Gas readings falling. H2S peak 8 ppm recorded on personal monitor.
+03:30 Chief Safety Officer on site. Incident classified Tier 2.
+04:00 Unit stabilised on P-101B at 96 percent rate.
+05:30 Area cleaned. Spill contained in bund. Estimated 380 litres crude.
+      Incident report INC-2026-014 initiated.
+
+=== 09-Jan-2026 DAY SHIFT (06:00 - 14:00) ===
+Shift Supervisor : Mr. Vikram Nair
+14:00 P-101A remains isolated pending maintenance. Investigation team formed.
+      Note raised: this is the third seal failure on P-101A. Refer WO-238811
+      and WO-221094. Reliability Engineer to review.
+
+=== 15-Jan-2026 DAY SHIFT ===
+09:00 E-204 shell side sample sent to lab. Slight hydrocarbon odour noted.
+      Lab result pending. Possible tube leak to be investigated.
+11:30 Unit rate held at 96 percent as precaution.
+
+=== 22-Jan-2026 NIGHT SHIFT ===
+03:00 Routine round. All parameters normal. Vibration on P-101B 3.4 mm/s.
+      Discharge 18.6 barg. No abnormality.

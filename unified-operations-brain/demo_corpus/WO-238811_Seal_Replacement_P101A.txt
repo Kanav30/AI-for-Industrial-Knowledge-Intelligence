@@ -1,0 +1,44 @@
+BHARAT PETROCHEM REFINERY - MAINTENANCE WORK ORDER
+CMMS Export - Module: Corrective Maintenance
+
+Work Order No     : WO-238811
+Equipment Tag     : P-101A
+Equipment Desc    : Crude Charge Pump A
+Location          : Crude Distillation Unit
+Maintenance Type  : Breakdown
+Priority          : P1 - Urgent
+Raised By         : Panel Operator
+Raised On         : 18-Mar-2024 06:15 hrs
+Completed On      : 19-Mar-2024 21:40 hrs
+Total Downtime    : 39.4 hrs
+Labour Hours      : 26.0
+Executed By       : Mr. Suresh Patil, Maintenance Engineer
+
+JOB DESCRIPTION
+Pump P-101A tripped on low discharge pressure. Field inspection found mechanical
+seal leak at outboard seal with continuous drip observed. Pump removed from service.
+
+WORK PERFORMED
+1. Isolated P-101A per SOP-CDU-011. Permit PTW-4471 issued for cold work.
+2. Drained and flushed pump casing with nitrogen purge. N2 purge verified.
+3. Removed coupling guard and decoupled from motor MTR-204.
+4. Dismantled outboard mechanical seal cartridge.
+5. Findings: seal faces scored. Secondary containment showed carbon deposits.
+   Seal flush port partially blocked. Bearing housing showed no abnormality.
+6. Replaced seal cartridge with OEM spare, part no MS-4412-B.
+7. Reassembled, aligned coupling. Final alignment 0.04 mm within tolerance.
+8. Vibration check on restart: 3.2 mm/s, acceptable per ISO 10816.
+
+SPARES CONSUMED
+MS-4412-B   Mechanical seal cartridge, outboard    Qty 1
+GK-0881     Casing gasket set                      Qty 1
+LB-2201     Bearing lube oil ISO VG 68             Qty 8 litres
+
+REMARKS
+Second seal failure on this pump within 8 months. Previous failure recorded under
+WO-221094. Recommend investigation of seal flush system adequacy. Note: this
+recommendation was recorded but no follow-up work order was raised.
+
+CLOSURE
+Closed as routine breakdown. No RCA initiated.
+Reviewed by Reliability Engineer: signature on file.

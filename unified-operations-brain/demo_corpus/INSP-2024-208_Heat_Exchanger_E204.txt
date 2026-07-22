@@ -1,0 +1,52 @@
+BHARAT PETROCHEM REFINERY
+EQUIPMENT INSPECTION REPORT - THICKNESS SURVEY
+
+Report No        : INSP-2024-208
+Equipment Tag    : E-204
+Equipment Desc   : Crude Preheat Exchanger, Shell and Tube
+Location         : Crude Distillation Unit
+Inspection Date  : 12-Sep-2024
+Inspection Type  : Ultrasonic Thickness Survey, on-stream
+Inspector        : Mr. Deepak Joshi, Inspection Engineer
+NDT Technician   : Mr. Imran Shaikh
+Procedure Ref    : API 570
+
+1. SCOPE
+On-stream ultrasonic thickness measurement at designated Condition Monitoring
+Locations on the shell and inlet/outlet nozzles of E-204.
+
+2. DESIGN DATA
+Design Pressure  : 21 barg shell side
+Design Temperature: 320 degC
+Material         : Shell SA-516 Gr 70, Tubes SA-179
+Nominal Thickness: 12.7 mm shell
+Minimum Required Thickness: 9.5 mm
+
+3. THICKNESS READINGS
+
+CML ID   Location                Previous (mm)  Current (mm)  Loss (mm)
+CML-01   Shell inlet quadrant        12.1          11.4          0.7
+CML-02   Shell mid-body top          12.3          12.0          0.3
+CML-03   Shell mid-body bottom       11.8          10.9          0.9
+CML-04   Shell outlet quadrant       12.0          11.5          0.5
+CML-05   Inlet nozzle neck           11.6          10.6          1.0
+CML-06   Outlet nozzle neck          12.2          11.8          0.4
+
+4. FINDINGS
+Measurable wall thinning observed at CML-03, CML-05 and CML-01. The pattern of
+metal loss is concentrated at the inlet quadrant and bottom of the shell,
+consistent with erosion corrosion driven by entrained solids and turbulent flow
+at the inlet. General corrosion is also evident across all CMLs.
+
+Highest corrosion rate: CML-05 at 0.50 mm/year.
+Remaining life at CML-05 based on current rate: 2.2 years to minimum thickness.
+
+5. RECOMMENDATIONS
+5.1 Reduce inspection interval for E-204 from 36 months to 18 months.
+5.2 Install an erosion shield at the inlet nozzle at next available shutdown.
+5.3 Monitor CML-03 and CML-05 at every opportunity.
+5.4 Review upstream filtration for solids carryover.
+
+6. NEXT INSPECTION DUE
+Recommended: March 2026.
+Compliance reference: API 570, OISD-STD-130.

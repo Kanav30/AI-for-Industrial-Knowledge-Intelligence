@@ -1,0 +1,77 @@
+BHARAT PETROCHEM REFINERY - JAMNAGAR COMPLEX
+INCIDENT INVESTIGATION REPORT
+
+Report No: INC-2026-014
+Date of Incident: 09-Jan-2026
+Time: 02:40 hrs
+Unit: Crude Distillation Unit
+Classification: Process Safety Event - Tier 2 (Loss of Primary Containment)
+Reportable under: Factories Act 1948, Section 88A
+Prepared by: Er. Anil Deshmukh, Process Engineer
+Reviewed by: Mr. Rajesh Kumar, Chief Safety Officer
+
+1. SUMMARY OF EVENT
+
+At approximately 02:40 hrs on 09-Jan-2026, the Panel Operator observed a sudden
+drop in discharge pressure on crude charge pump P-101A from 18.5 barg to 11.2 barg
+over a period of four minutes. Simultaneously the local hydrocarbon detector AT-1142
+in the pump bay registered a rising reading which peaked at 34 % LEL.
+
+The Field Operator dispatched to the location reported visible liquid hydrocarbon
+spray from the outboard mechanical seal of P-101A. The Shift Supervisor initiated
+the unit emergency shutdown procedure per SOP-CDU-011 and P-101A was isolated.
+Standby pump P-101B was started to maintain unit charge. No injury occurred.
+Estimated release quantity: 380 litres of crude oil, fully contained within the
+paved bund area.
+
+2. IMMEDIATE CAUSE
+
+Catastrophic failure of the outboard mechanical seal on P-101A. Seal faces were
+recovered and showed circumferential scoring consistent with dry running.
+
+3. ROOT CAUSE ANALYSIS
+
+The investigation team applied a 5-Why analysis supported by review of historical
+maintenance records.
+
+Why 1: Hydrocarbon released. -> Mechanical seal failure on P-101A.
+Why 2: Seal failed. -> Seal faces ran dry due to loss of flush flow.
+Why 3: Flush flow lost. -> Seal flush line strainer was blocked with coke fines.
+Why 4: Strainer blocked. -> Strainer cleaning was not performed at required frequency.
+Why 5: Cleaning not performed. -> Seal flush strainer cleaning is not listed as a
+       discrete task in the preventive maintenance plan for P-101A. It is referenced
+       only in the OEM manual and relies on operator knowledge.
+
+ROOT CAUSE: Procedural gap. The preventive maintenance schedule for P-101A does not
+capture seal flush system maintenance as a controlled task. The organisation has
+been dependent on undocumented operator knowledge of this requirement.
+
+4. HISTORICAL CONTEXT
+
+The investigation team notes that this is NOT the first mechanical seal failure on
+this pump. Reference is made to WO-238811 (Mar-2024) and WO-221094 (Aug-2023), both
+of which record seal replacement on P-101A. Neither work order triggered a root
+cause investigation as each was closed as routine breakdown maintenance. The
+recurrence pattern was not identified at the time.
+
+5. HAZARDOUS SUBSTANCE EXPOSURE
+
+Crude oil at this location contains dissolved hydrogen sulphide. Personal H2S
+monitors carried by the responding Field Operator recorded a peak of 8 ppm during
+the response, below the alarm threshold of 10 ppm. Reference SDS-CRUDE-01 for
+exposure controls. Applicable standard: OISD-STD-105.
+
+6. CORRECTIVE AND PREVENTIVE ACTIONS
+
+CAPA-2026-031 : Add seal flush strainer cleaning to the PM plan for all CDU
+                charge pumps at 90-day frequency. Owner: Reliability Engineer.
+CAPA-2026-032 : Conduct a bad-actor review of all rotating equipment with more
+                than two seal failures in a rolling 36-month window.
+                Owner: Maintenance Engineer.
+CAPA-2026-033 : Issue SOP covering seal support system maintenance. Currently no
+                controlled procedure exists. Owner: Process Engineer.
+
+7. REGULATORY NOTIFICATION
+
+Notified to the Directorate of Industrial Safety and Health as required.
+Compliance reference: Factories Act 1948, OISD-STD-105, MSIHC Rules 1989.

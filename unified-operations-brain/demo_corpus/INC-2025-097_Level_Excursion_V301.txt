@@ -1,0 +1,50 @@
+BHARAT PETROCHEM REFINERY
+INCIDENT INVESTIGATION REPORT
+
+Report No: INC-2025-097
+Date of Incident: 22-Nov-2025
+Unit: Crude Distillation Unit
+Equipment: V-301
+Classification: Near Miss - High Potential
+Prepared by: Er. Anil Deshmukh, Process Engineer
+
+1. SUMMARY
+During a feed rate change, the level in overhead accumulator V-301 rose rapidly and
+reached the high level trip setpoint. LSH-3011 actuated and tripped the overhead
+pump. Liquid carryover to the downstream compressor K-301 was narrowly avoided.
+Had the trip not functioned, liquid ingress to K-301 could have caused
+catastrophic mechanical damage and potential loss of containment.
+
+2. SEQUENCE
+14:10 Feed rate increase initiated from 96 to 104 percent.
+14:22 Overhead condenser duty lagged the rate change. Level in V-301 began rising.
+14:31 LT-3010 indicated 78 percent. No operator action taken.
+14:38 Level reached 92 percent. LSH-3011 trip actuated.
+14:39 Overhead pump tripped. Level stabilised at 94 percent.
+
+3. FINDINGS
+3.1 There is no written operating procedure for V-301 level management during
+    rate changes. The Panel Operator on duty had two years of experience and
+    stated that he had been trained verbally by a senior colleague.
+3.2 No alarm was configured between the normal operating band and the trip point.
+    The operator therefore received no early warning.
+3.3 Interviews established that experienced operators routinely reduce the rate
+    ramp gradient when overhead conditions are marginal. This practice is
+    effective but exists nowhere in documentation.
+
+4. ROOT CAUSE
+Absence of documented operating knowledge. The safe operating envelope for V-301
+during transient conditions is held tacitly by a small number of experienced
+personnel and has never been captured in a controlled document.
+
+5. CORRECTIVE ACTIONS
+CAPA-2025-114 : Develop and issue an operating procedure for V-301 covering
+                transient and rate change conditions. Owner: Process Engineer.
+                STATUS AS OF MAR-2026: NOT STARTED.
+CAPA-2025-115 : Configure a high level pre-alarm on LT-3010 at 80 percent.
+                STATUS: Completed.
+
+6. NOTE FROM INVESTIGATION TEAM
+The team wishes to record that the two operators whose knowledge prevented
+escalation on previous occasions are both due to retire within five years. Their
+operational knowledge of V-301 is not documented anywhere.

@@ -1,0 +1,59 @@
+BHARAT PETROCHEM REFINERY
+STANDARD OPERATING PROCEDURE
+
+Document No   : SOP-CDU-011
+Title         : Isolation and Handover of Crude Charge Pumps for Maintenance
+Revision      : 04
+Effective Date: 01-Apr-2025
+Unit          : Crude Distillation Unit
+Applicable To : P-101A, P-101B, P-102A, P-102B
+Approved By   : Mr. Vikram Nair, Unit Head
+
+1. PURPOSE
+To define the controlled sequence for isolating crude charge pumps from the process
+and handing them over to the maintenance department, ensuring elimination of stored
+energy and hydrocarbon inventory prior to any intrusive work.
+
+2. SCOPE
+This procedure applies to all crude charge pumps in the Crude Distillation Unit.
+It covers isolation only. It does NOT cover seal support system maintenance,
+which is outside the scope of this document.
+
+3. RESPONSIBILITY
+Shift Supervisor    : Authorises isolation, verifies process conditions.
+Panel Operator      : Executes remote isolation, confirms flow diversion.
+Field Operator      : Executes physical isolation, applies locks and tags.
+Permit Issuer       : Issues Permit to Work after verifying isolation complete.
+Maintenance Engineer: Receives equipment, verifies isolation before starting work.
+
+4. PRECAUTIONS
+4.1 Crude oil in this service contains dissolved H2S. Personal gas monitors are
+    mandatory. Alarm threshold is set at 10 ppm as an 8-hour reference value.
+4.2 Pump casing may retain hydrocarbon under pressure after isolation.
+4.3 Confined Space entry is NOT permitted under this procedure.
+4.4 All electrical isolation shall follow lockout tagout requirements.
+
+5. PROCEDURE
+
+Step 1  Confirm standby pump is available and healthy. Verify P-101B on auto standby.
+Step 2  Shift Supervisor authorises changeover. Record in shift log.
+Step 3  Panel Operator starts standby pump, confirms discharge pressure stabilises
+        at 18.0 barg to 19.0 barg. Confirm flow on FT-1103.
+Step 4  Stop duty pump from panel. Confirm zero flow.
+Step 5  Field Operator closes suction MOV-1101 and discharge MOV-1102. Confirm
+        valve position locally, do not rely on panel indication alone.
+Step 6  Electrical isolation of motor MTR-204 at MCC. Apply lock and personal tag.
+Step 7  Depressurise casing to closed drain. Confirm zero pressure on PT-1105.
+Step 8  Nitrogen purge casing. Purge until hydrocarbon reading below 1 % LEL.
+Step 9  Gas test by Competent Person. Record on permit. Oxygen 19.5 % to 23.5 %.
+Step 10 Permit Issuer issues PTW. Handover to Maintenance Engineer.
+
+6. RESTORATION
+Reverse sequence. Vibration check mandatory on restart. Acceptance limit 4.5 mm/s
+per ISO 10816 for this machine class.
+
+7. REFERENCES
+OISD-STD-105  Work Permit System
+IS 5571       Selection of electrical equipment for hazardous areas
+ISO 10816     Mechanical vibration evaluation
+Factories Act 1948

@@ -1,0 +1,66 @@
+BHARAT PETROCHEM REFINERY
+EQUIPMENT INSPECTION REPORT - THICKNESS SURVEY AND INTERNAL EXAMINATION
+
+Report No        : INSP-2026-042
+Equipment Tag    : E-204
+Equipment Desc   : Crude Preheat Exchanger, Shell and Tube
+Location         : Crude Distillation Unit
+Inspection Date  : 21-Mar-2026
+Inspection Type  : Ultrasonic Thickness Survey plus internal visual examination
+Inspector        : Mr. Deepak Joshi, Inspection Engineer
+Third Party Inspector: M/s Reliable NDT Services
+Procedure Ref    : API 570
+
+1. SCOPE
+Follow-up thickness survey per recommendation 5.1 of INSP-2024-208, combined with
+internal visual examination during unit shutdown.
+
+2. THICKNESS READINGS
+
+CML ID   Location                Sep-2024 (mm)  Mar-2026 (mm)  Rate (mm/yr)
+CML-01   Shell inlet quadrant       11.4           10.6           0.53
+CML-02   Shell mid-body top         12.0           11.8           0.13
+CML-03   Shell mid-body bottom      10.9            9.8           0.73
+CML-04   Shell outlet quadrant      11.5           11.1           0.27
+CML-05   Inlet nozzle neck          10.6            9.7           0.60
+CML-06   Outlet nozzle neck         11.8           11.5           0.20
+
+3. FINDINGS
+
+3.1 SHELL CONDITION
+CML-03 is now at 9.8 mm against a minimum required thickness of 9.5 mm. Remaining
+margin is 0.3 mm. At the observed corrosion rate of 0.73 mm/year this location
+will reach minimum thickness within approximately 5 months.
+
+CML-05 at 9.7 mm is similarly marginal. The corrosion rate at both locations has
+INCREASED relative to the previous survey period, indicating the degradation
+mechanism is accelerating rather than stable.
+
+3.2 INTERNAL EXAMINATION
+Internal visual examination of the shell side revealed erosion corrosion scars
+downstream of the inlet nozzle. The erosion shield recommended in INSP-2024-208
+recommendation 5.2 was NOT installed. No management of change record exists for
+the deferral of this recommendation.
+
+3.3 TUBE BUNDLE
+Eddy current examination of 100 percent of tubes identified 14 tubes with wall
+loss exceeding 40 percent. Two tubes showed through-wall indication consistent
+with the tube leak reported under WO-244501.
+
+4. IMMEDIATE ACTIONS TAKEN
+14 tubes plugged. Fitness for service assessment initiated for CML-03 and CML-05
+per API 579 Level 1.
+
+5. RECOMMENDATIONS
+5.1 E-204 shall NOT be returned to full design pressure without a fitness for
+    service assessment. Interim operating pressure restricted to 17 barg.
+5.2 Erosion shield installation is now mandatory, not advisory.
+5.3 Shell section replacement to be scoped for next turnaround.
+5.4 Raise NCR against the failure to action INSP-2024-208 recommendation 5.2.
+
+6. NON-CONFORMANCE
+NCR-2026-018 raised. Previous inspection recommendation was not implemented and
+no deviation was formally approved. This represents a breakdown in the inspection
+recommendation tracking process.
+
+Compliance reference: API 570, API 579, OISD-STD-130, Factories Act 1948.

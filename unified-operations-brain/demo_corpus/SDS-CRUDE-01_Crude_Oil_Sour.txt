@@ -1,0 +1,59 @@
+SAFETY DATA SHEET
+In accordance with Manufacture Storage and Import of Hazardous Chemicals Rules
+
+Document No : SDS-CRUDE-01
+Revision    : 03
+Date        : 15-Jun-2025
+Product     : Crude Oil, Sour Grade
+Supplier    : Bharat Petrochem Refinery
+
+SECTION 1 - IDENTIFICATION
+Product Name : Crude Oil, Sour
+Use          : Refinery feedstock
+UN Number    : 1267
+Class        : 3 Flammable Liquid
+
+SECTION 2 - HAZARD IDENTIFICATION
+Highly flammable liquid and vapour.
+Contains dissolved hydrogen sulphide. H2S is an acutely toxic gas that rapidly
+deadens the sense of smell, so odour is NOT a reliable warning of exposure.
+May cause cancer. Contains benzene.
+Toxic to aquatic life with long lasting effects.
+
+SECTION 3 - COMPOSITION
+Component               CAS No        Concentration
+Hydrocarbons, mixed     8002-05-9     Balance
+Hydrogen sulphide       7783-06-4     up to 200 ppm dissolved
+Benzene                 71-43-2       0.1 to 2 percent
+
+SECTION 4 - FIRST AID MEASURES
+Inhalation: Remove to fresh air immediately. Rescuer must wear breathing apparatus.
+Do not attempt rescue without respiratory protection. H2S has caused multiple
+rescuer fatalities. Administer oxygen if trained. Seek medical attention.
+Skin contact: Remove contaminated clothing. Wash with soap and water.
+Eye contact: Irrigate with water for 15 minutes.
+
+SECTION 5 - FIRE FIGHTING
+Suitable media: Foam, dry chemical powder, carbon dioxide.
+Unsuitable: Water jet.
+Hazardous combustion products include sulphur dioxide and carbon monoxide.
+
+SECTION 8 - EXPOSURE CONTROLS
+Hydrogen sulphide occupational exposure limit:
+    8-hour time weighted average : 5 ppm
+    Short term exposure limit    : 10 ppm over 15 minutes
+Benzene 8-hour TWA: 1 ppm
+
+Engineering controls: Fixed gas detection with alarm. Local exhaust ventilation
+where practicable. Closed sampling systems.
+Personal protection: Personal H2S monitor mandatory in all sour service areas.
+Escape breathing apparatus available.
+
+SECTION 9 - PHYSICAL PROPERTIES
+Appearance : Dark brown to black liquid
+Flash Point: Below 23 degC
+Density    : 850 kg/m3 approximately
+
+SECTION 15 - REGULATORY INFORMATION
+Regulated under MSIHC Rules 1989. Storage licensed under PESO.
+Reference OISD-STD-105 for work permit requirements in sour service.

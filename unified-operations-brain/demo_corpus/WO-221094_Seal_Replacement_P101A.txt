@@ -1,0 +1,38 @@
+BHARAT PETROCHEM REFINERY - MAINTENANCE WORK ORDER
+CMMS Export - Module: Corrective Maintenance
+
+Work Order No     : WO-221094
+Equipment Tag     : P-101A
+Equipment Desc    : Crude Charge Pump A
+Location          : Crude Distillation Unit
+Maintenance Type  : Breakdown
+Priority          : P1 - Urgent
+Raised On         : 04-Aug-2023 14:20 hrs
+Completed On      : 05-Aug-2023 11:05 hrs
+Total Downtime    : 20.8 hrs
+Labour Hours      : 14.5
+Executed By       : Mr. Suresh Patil, Maintenance Engineer
+
+JOB DESCRIPTION
+Reported gland leak from P-101A outboard seal area during routine round. Seal
+leak rate increased over a 6 hour period. Decision taken to shut down and replace.
+
+WORK PERFORMED
+1. Pump isolated. Permit PTW-3922 issued.
+2. Outboard mechanical seal cartridge removed and inspected.
+3. Findings: light scoring on rotating face, elastomer hardened.
+   Seal flush line found restricted. Strainer not cleaned since installation.
+4. Seal cartridge replaced, part no MS-4412-B.
+5. Flush line back-flushed manually. Strainer cleaned.
+6. Restart vibration 2.9 mm/s. Discharge pressure restored to 18.4 barg.
+
+SPARES CONSUMED
+MS-4412-B   Mechanical seal cartridge, outboard    Qty 1
+ST-1140     Flush line strainer element            Qty 1
+
+REMARKS
+Strainer condition noted as heavily fouled with coke fines. Operator advised to
+include in routine checks. No formal PM task exists for this activity.
+
+CLOSURE
+Closed as routine breakdown. No RCA initiated.

@@ -1,0 +1,32 @@
+BHARAT PETROCHEM REFINERY - MAINTENANCE WORK ORDER
+
+Work Order No     : WO-241203
+Equipment Tag     : V-301
+Equipment Desc    : Overhead Accumulator
+Location          : Crude Distillation Unit
+Maintenance Type  : Corrective
+Priority          : P2
+Raised On         : 25-Nov-2025
+Completed On      : 26-Nov-2025
+Executed By       : Mr. Farhan Qureshi, Instrumentation Engineer
+
+JOB DESCRIPTION
+Following near miss INC-2025-097, configure high level pre-alarm on LT-3010 and
+verify calibration of level instrumentation on V-301.
+
+WORK PERFORMED
+1. LT-3010 calibration verified against sight glass. Transmitter drift of 1.8
+   percent of span identified and corrected.
+2. High level pre-alarm configured at 80 percent in DCS.
+3. LSH-3011 trip function tested by simulation. Trip actuated correctly.
+4. Loop check completed on LT-3010, LIC-3010 and LSH-3011.
+
+FINDINGS
+Transmitter drift noted. Last documented calibration of LT-3010 was 41 months
+prior. The instrument calibration schedule for V-301 instrumentation could not be
+located. No OEM documentation for V-301 instrumentation is held on site.
+
+REMARKS
+Instrumentation Engineer notes that no equipment file exists for V-301. Datasheets,
+calibration history and OEM manuals are not available. Recommend equipment file
+reconstruction.

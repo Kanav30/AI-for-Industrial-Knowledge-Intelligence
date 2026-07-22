@@ -1,0 +1,36 @@
+BHARAT PETROCHEM REFINERY - MAINTENANCE WORK ORDER
+
+Work Order No     : WO-244501
+Equipment Tag     : E-204
+Equipment Desc    : Crude Preheat Exchanger
+Location          : Crude Distillation Unit
+Maintenance Type  : Breakdown
+Priority          : P1 - Urgent
+Raised On         : 08-Feb-2026 09:30 hrs
+Completed On      : 11-Feb-2026 18:00 hrs
+Total Downtime    : 80.5 hrs
+Executed By       : Mr. Suresh Patil, Maintenance Engineer
+
+JOB DESCRIPTION
+Suspected tube leak on E-204. Shell side sample showed hydrocarbon contamination
+inconsistent with normal operation. Unit rate reduced pending investigation.
+
+WORK PERFORMED
+1. E-204 isolated and blinded. Permit PTW-5518 issued for cold work.
+2. Shell side drained and steamed out. Gas test clear.
+3. Hydrotest of tube bundle at 1.5 times design pressure.
+4. Two tubes identified with through-wall leakage. Tubes plugged.
+5. Bundle reinstalled. Leak test satisfactory.
+
+FINDINGS
+Tube leak confirmed on two tubes in the peripheral row nearest the inlet nozzle.
+Visual inspection of accessible shell internals showed erosion damage in the
+inlet region. Erosion appears longstanding.
+
+REMARKS
+Inspection department advised that thickness survey INSP-2024-208 had previously
+flagged accelerated metal loss in this region and recommended an erosion shield
+which was not installed. Recommend inspection review before restart.
+
+CLOSURE
+Closed. Equipment returned to service at reduced rate pending inspection review.
